@@ -1,6 +1,6 @@
 'use strict';
 let userName = prompt("what is your name?")
-alert("welcome " + userName +" to My class 02 site please answer this Q: (Replys only with y/n or yes or no!):D");
+alert("welcome 🌹 " + userName +" to My class 02 site please answer this Q: (Replys only with y/n or yes or no!):D");
 //####################| Q 1 |####################
 let fromWhere = prompt('Do you think i am korean?').toLowerCase();
 
